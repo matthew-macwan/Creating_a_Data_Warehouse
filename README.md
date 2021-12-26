@@ -4,7 +4,7 @@ In this academic project, I created a data warehouse that created fact tables an
 
 
 
-FILE DESCRIPTIONS
+### File Description
 
 - Chris_Paul.xlsx - Excel spreadsheet containing the game log info for Chris Paul
 - Damian_Lillard.xlsx - Excel spreadsheet containing the game log info for Damian Lillard 
@@ -12,3 +12,8 @@ FILE DESCRIPTIONS
 - Donovan_Mitchell.xlsx - Excel spreadsheet containing the game log info for Donovan Mitchell 
 - NBA_ETL_script.py - Python script which takes the Excel spreadsheets and imports them into a MySQL database 
 - Stephen_Curry.xlsx - Excel spreadsheet containing the game log info for Stephen Curry 
+
+
+### Data Science Topics Covered 
+
+- data cleaning, ETL, data architecture
