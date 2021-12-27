@@ -14,6 +14,6 @@ In this academic project, I created a data warehouse that created fact tables an
 - Stephen_Curry.xlsx - Excel spreadsheet containing the game log info for Stephen Curry 
 
 
-### Data Science Topics Covered 
+### Topics Covered 
 
 - data cleaning, ETL, data architecture
