@@ -12,6 +12,8 @@ In this academic project, I created a data warehouse that created fact tables an
 - Donovan_Mitchell.xlsx - Excel spreadsheet containing the game log info for Donovan Mitchell 
 - NBA_ETL_script.py - Python script which takes the Excel spreadsheets and imports them into a MySQL database 
 - Stephen_Curry.xlsx - Excel spreadsheet containing the game log info for Stephen Curry 
+- data_warehouse_output.png - PNG file showing a screenshot of the data warehouse being accessed
+- data_warehouse_output_2.png - PNG file showing a screenshot of the fact table and dimensions being accessed through queries
 
 
 ### Topics Covered 
