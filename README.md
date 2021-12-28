@@ -18,4 +18,4 @@ In this academic project, I created a data warehouse that created fact tables an
 
 ### Topics Covered 
 
-- data cleaning, ETL, data architecture, data warehousing, fact table, dimensions
+- data cleaning, ETL, data architecture, data warehousing, fact table, dimensions, SQL queries
