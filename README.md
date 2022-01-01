@@ -1,5 +1,7 @@
 # Creating_a_Data_Warehouse
 
+### Project Summary
+
 In this academic project, I created a data warehouse that created fact tables and dimensions for 5 NBA players (Chris Paul, Damian Lillard, DeAaron Fox, Donovan Mitchell and Stephen Curry). The Excel spreadsheets were downloaded from basketball-reference.com. The script was executed from my local bash terminal and the data was inputted on my local machine in MySQL. This project was assigned in my CIS 4400 and I learned alot about data architecture, how a data warehouse functions and how it is utilized by people accessing it, whether it be by creating data marts or running reports.
 
 
